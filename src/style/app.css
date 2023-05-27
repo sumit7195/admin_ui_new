@@ -1,0 +1,15 @@
+.flex {
+
+     display: flex;
+     gap: 0.5rem;
+}
+
+
+.grow { 
+    transition: all .2s ease-in-out; 
+    cursor: pointer; 
+    }
+    
+    .grow:hover { 
+    transform: scale(1.8); 
+    }
